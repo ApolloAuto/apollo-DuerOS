@@ -14,7 +14,7 @@ CarLife手机端支持iOS和Android平台，车机端支持Android、Linux、WIN
 ## DuerOS Launcher
 
 Lanucher是android终端机上首个用户图形交互的界面，是启动安装在终端机上其他应用的入口(电话，收音机等app需自行接入)。
-![Launcher Screen](Launcher.png)
+![Launcher Screen](Launcher.jpeg)
 ### [DuerOS Launcher](https://github.com/ApolloAuto/apollo-DuerOS/tree/master/DuerOS-Launcher)有如下特点:
 1.针对驾驶场景设计，采用轻量化、科技感的UI设计
 
