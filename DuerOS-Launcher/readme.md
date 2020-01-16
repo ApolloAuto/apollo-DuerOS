@@ -16,8 +16,8 @@ Lanucher is the interface of the first user graphical interaction of the Android
 
 #### Compile
 - set the required Android environment
-- compile car launcher: bash bash build-app-headunit-open.sh
-- compile portrait car launcher: bash bash build-app-headunit-portrait-open.sh
+- compile car launcher: bash build-app-headunit-open.sh
+- compile portrait car launcher: bash build-app-headunit-portrait-open.sh
 - compile mirror launcher: bash build-app-mirror-open.sh
 - The compilation will generate two release APK and debug in the output directory. The debug version is used for debugging, and the release version closes the log
 

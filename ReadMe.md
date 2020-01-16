@@ -19,7 +19,7 @@ CarLife+ currently supports wireless connection. There is no open source code of
 
 
 ## DuerOS Launcher
-Lanucher is the interface of the first user graphical interaction of the Android terminal,is the start of the installation of other applications on the terminal entrance(Telephone, radio, and so on need to be connected to app).
+Launcher is the interface of the first user graphical interaction of the Android terminal,is the start of the installation of other applications on the terminal entrance(Telephone, radio, and so on need to be connected to app).
 ![Launcher Screen](Launcher.jpeg)
 
 ### [DuerOS Launcher](https://github.com/ApolloAuto/apollo-DuerOS/tree/master/DuerOS-Launcher) Features:
